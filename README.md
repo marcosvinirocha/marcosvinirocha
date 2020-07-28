@@ -19,6 +19,4 @@ Ola , sou um estudante de sistemas de informação , já posuo alguns conhecimet
 
 
 
-
-
 ![logo.png](./logo.png)  https://www.linkedin.com/in/marcosudia1256/
