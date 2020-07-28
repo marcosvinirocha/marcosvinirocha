@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 Ola , sou um estudante de sistemas de informação , já posuo alguns conhecimetos em desenvolvimento em front-end e back-end. Nas horas vagas procuro estudar frameworks UI para criar projetos mais detalhados e aprender mais o uso dessas ferramentas no dia-a-dia.
 
-🏢 https://www.linkedin.com/in/marcosudia1256/
+
+
+
+
+![logo.png](/home/marcosvinicius/Documentos/perfil_github/marcosvinirocha/logo.png)  https://www.linkedin.com/in/marcosudia1256/
