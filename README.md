@@ -21,4 +21,4 @@ Ola , sou um estudante de sistemas de informação , já posuo alguns conhecimet
 
 
 
-![logo.png](/home/marcosvinicius/Documentos/perfil_github/marcosvinirocha/logo.png)  https://www.linkedin.com/in/marcosudia1256/
+![logo.png](./logo.png)  https://www.linkedin.com/in/marcosudia1256/
