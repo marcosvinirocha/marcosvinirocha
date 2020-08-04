@@ -30,7 +30,7 @@ Sou um Estudante de Sistemas de informação 📓
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS,Node e Javascript.
  <br/>
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e sou focado em aprender novas ferramentas.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e focado em aprender novas ferramentas. nas horas vagas  eu vejo animes e series online.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Marcosudia1256-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosudia1256/)](https://www.linkedin.com/in/marcosudia1256/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-marcosvinicius.udia1256@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvinicius.udia1256@gmail.com)](mailto:marcosudia.1256@gmail.com)
