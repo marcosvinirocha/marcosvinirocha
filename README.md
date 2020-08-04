@@ -28,5 +28,5 @@ Sou um Estudante de Sistemas de informação 📓
 <br/>
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias e focado em aprender novas ferramentas.   <br/> 🎬  &nbsp; Nas horas vagas eu vejo animes e series online.
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Marcosudia1256-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosudia1256/)](https://www.linkedin.com/in/marcosudia1256/)
-|
+&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-marcosvinicius.udia1256@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvinicius.udia1256@gmail.com)](mailto:marcosudia.1256@gmail.com)
