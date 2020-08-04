@@ -23,7 +23,7 @@ Sou um Estudante de Sistemas de informação 📓
 :rocket: &nbsp; Estou buscando conhecimentos para ajudar pessoas.
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e outras tecnologias e poder ajudar onde houver necessidade.
 <br/>
-<br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+<br/> :blush: &nbsp; Posso te ajudar com Css e alguns conhecimentos de Backend usando NodeJs.
 <br/> :computer: &nbsp; Minha stack: ReactJS,Node e Javascript.
 <br/>
 <br/> 💬 &nbsp; Sobre mim: Curto tecnologias e focado em aprender novas ferramentas.   <br/> 🎬  &nbsp; Nas horas vagas eu vejo animes e series online.
