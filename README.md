@@ -25,7 +25,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Estudante de Sistemas de informação 📓
 
  :rocket:  &nbsp; Estou buscando conhecimentos para ajudar pessoas.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React <br>e outras tecnologias e poder ajudar onde houver necessidade.
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React <br>   e outras tecnologias e poder ajudar onde houver necessidade.
  <br/>
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS,Node e Javascript.
