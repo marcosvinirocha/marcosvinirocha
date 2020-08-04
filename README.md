@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 # Marcos Vinicius Oliveira Rocha
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
+Sou Focado em aprender e dedicar meu tempo estudando novas tecnologias.
 Sou um Estudante de Sistemas de informação 📓
 
  :rocket:  &nbsp; Estou buscando conhecimentos para ajudar pessoas.
