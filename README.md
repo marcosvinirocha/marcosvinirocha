@@ -27,7 +27,7 @@ I'm an Information Systems Student.
 <br/> :blush: &nbsp; I can help you with Css and some knowledge of Backend using NodeJs.
 <br/> :computer: &nbsp; My stack: ReactJS, Node and Javascript.
 <br/>
-<br/> 💬 &nbsp; About me: I like technologies and focused on learning new tools.  <br/> 🎬  &nbsp; In my spare time I watch anime and series online.
+<br/> 💬 &nbsp; About me: I like technologies and i'm focused on learning new tools.  <br/> 🎬  &nbsp; In my spare time I watch anime and series online.
 <br/> :email: &nbsp; Please contact me: [![Linkedin Badge](https://img.shields.io/badge/-Marcosudia1256-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosudia1256/)](https://www.linkedin.com/in/marcosudia1256/)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-marcosvinicius.udia1256@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvinicius.udia1256@gmail.com)](mailto:marcosudia.1256@gmail.com)
