@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
 
 
 # Marcos Vinicius Oliveira Rocha
