@@ -41,3 +41,8 @@ I'm an Information Systems Student.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/49eaa7d2fc568cf2f64ec446da9e07eaf97afbf6/ubuntu.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/49eaa7d2fc568cf2f64ec446da9e07eaf97afbf6/nodemon.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/49eaa7d2fc568cf2f64ec446da9e07eaf97afbf6/node-dot-js.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/49eaa7d2fc568cf2f64ec446da9e07eaf97afbf6/docker.svg" />
+
