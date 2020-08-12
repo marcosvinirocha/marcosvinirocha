@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 I am Focused on learning and dedicating my time studying new technologies.
 I'm an Information Systems Student.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosvinirocha" alt="marcosvinirocha" /> </p>
 
 :rocket: &nbsp; I'm looking for knowledge to help people.
 <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React and other technologies and being able to help where needed.
