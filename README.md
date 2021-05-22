@@ -41,7 +41,7 @@
   
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=fedora&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 </p>
