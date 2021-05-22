@@ -8,7 +8,7 @@
     para novas linguagens e frameworks.
 </p>
 
-<p>Ferramentas:<br>
+<p>🧰Ferramentas:<br>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 <img src="https://img.shields.io/badge/Intellij&nbsp;IDEA-000000?&style=for-the-badge&logo=intellij-IDEA&logoColor=white">
@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-<p>Contato:</p>
+<p>📱Contato:</p>
   <a href="mailto:marcosvinicius.udia1256@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcosudia1256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
