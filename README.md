@@ -8,7 +8,7 @@
     para novas linguagens e frameworks.
 </p>
 
-<p>Ferramentas:
+<p>Ferramentas:<br>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 <img src="https://img.shields.io/badge/Intellij&nbsp;IDEA-000000?&style=for-the-badge&logo=intellij-IDEA&logoColor=white">
