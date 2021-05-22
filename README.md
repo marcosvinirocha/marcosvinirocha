@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Ola meu nome é Marcos Vinicius . Sou estudante na área de <strong>Sistemas de Informação</strong>.<br>
-  Atuamente estou estudando Java, Spring Boot, Nodejs, Reactjs, Express. Estou aberto para 
+  Atuamente estou estudando Java, Spring Boot, Javascript, Nodejs, Reactjs, Express. Estou aberto para 
     para novas linguagens e frameworks.
 </p>
 
