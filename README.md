@@ -57,5 +57,5 @@
   
  
 </p>
-
-[![marcosvinirocha](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&hide=html&layout=compact&theme=dark)](https://github.com/marcosvinirocha/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&theme=buefy&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&theme=buefy&layout=compact" />
