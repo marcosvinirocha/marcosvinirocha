@@ -57,5 +57,9 @@
   
  
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&theme=dark&show_icons=true" />
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&theme=dark&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&theme=dark&layout=compact" />
+
+</p>
