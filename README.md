@@ -52,6 +52,7 @@
 <p align="left">
 <p>📱Contato:</p>
   <a href="mailto:marcosvinicius.udia1256@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/marcosudia1256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  
   
@@ -60,6 +61,7 @@
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&theme=dark&show_icons=true" />
+  &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&theme=dark&layout=compact" />
 
 </p>
