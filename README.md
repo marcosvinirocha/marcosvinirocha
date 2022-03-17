@@ -11,8 +11,6 @@
 <p>🧰Ferramentas:<br>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 &nbsp;
-<img src="https://img.shields.io/badge/Intellij&nbsp;IDEA-000000?&style=for-the-badge&logo=intellij-IDEA&logoColor=white">
-</p>
 
 <p align="left">
   🦄 Soft Skils: <br><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
