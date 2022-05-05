@@ -8,6 +8,8 @@
     para novas linguagens e frameworks.
 </p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 <p>🧰Ferramentas:<br>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
 &nbsp;
