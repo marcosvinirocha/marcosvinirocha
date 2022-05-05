@@ -8,7 +8,7 @@
     para novas linguagens e frameworks.
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?marcosvinirocha)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmarcosvinirocha&countColor=%23263759)
 
 <p>🧰Ferramentas:<br>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
