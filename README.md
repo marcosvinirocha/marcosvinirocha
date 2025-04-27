@@ -1,27 +1,45 @@
-# 💫 About Me:
-🔭 Atualmente estou trabalhando para melhorar minhas habilidades de programação e aprender novas tecnologias.<br>👯 Procuro colaborar em  projetos relacionados ao desenvolvimento web e Back-end.<br>🤝 Procuro ajuda para dominar algoritmos e estruturas de dados.<br>🌱 Atualmente estou aprendendo desenvolvimento web e mobile usando Nuxt.js e  Ionic.<br>💬 Pergunte-me sobre minha jornada para me tornar um desenvolvedor Web e dicas para aprender programação.<br>⚡ Curiosidade: falo Inglês Intermediário/avançado, mas sempre buscando aprender mais.
+# Olá! 👋 Sou um Desenvolvedor Fullstack Ágil e Adaptável
 
+Com mais de **4 anos de experiência**, possuo um histórico comprovado na entrega de soluções web inovadoras e de alta qualidade. Minha paixão por aprender continuamente e a aplicação de metodologias centradas no usuário me permitem criar produtos digitais relevantes e impactantes.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcosviniroch4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosudia1256) 
+Busco integrar equipes dinâmicas e colaborativas para contribuir com projetos desafiadores e de grande escala.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcosvinirocha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marcosvinirocha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Habilidades
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcosvinirocha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Minha expertise abrange um amplo espectro de tecnologias e práticas de desenvolvimento:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Front-end:**
+* **Frameworks/Bibliotecas:** React, Next.js, Vue
+* **Linguagens:** JavaScript, TypeScript, HTML, CSS
+* **Estilização:** Tailwind CSS, Ant Design, Bootstrap, Styled Components
+* **Outros:** jQuery, Design System, Mobile First, Responsive Design
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+**Back-end:**
+* **Linguagens/Frameworks:** Node.js, Java (Spring Boot, Quarkus), Nest.js
+* **APIs:** API Rest
+* **Bancos de Dados/Outros:** Firebase
 
----
-[![](https://visitcount.itsvg.in/api?id=marcosvinirocha&icon=0&color=0)](https://visitcount.itsvg.in)
+**Mobile:**
+* React Native, Expo, Android
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Arquitetura e Boas Práticas:**
+* SOLID, Design Patterns, PWA, SPA
+
+**Testes:**
+* Unit Testing (Jest, Cypress)
+
+**DevOps e Ferramentas:**
+* CI/CD, Insomnia, GitFlow, ESLint, Prettier, Git, GitHub, GitLab, GitHub Actions
+
+**Metodologias:**
+* Experiência em metodologias ágeis (Scrum e Kanban)
+
+## 🌱 Aprendizado Contínuo
+
+Acredito que a busca constante por conhecimento é fundamental no mundo da tecnologia. Estou sempre explorando novas ferramentas, frameworks e abordagens para aprimorar minhas habilidades e entregar soluções ainda melhores.
+
+## 🤝 Conecte-se Comigo
+
+Estou aberto a novas oportunidades e colaborações. Se você busca um desenvolvedor fullstack dedicado, com experiência e paixão por criar experiências digitais memoráveis, entre em contato!
+
+Vamos construir algo incrível juntos! ✨
