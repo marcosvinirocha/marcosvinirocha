@@ -17,7 +17,7 @@ Minha expertise abrange um amplo espectro de tecnologias e práticas de desenvol
 **Back-end:**
 * **Linguagens/Frameworks:** Node.js, Java (Spring Boot, Quarkus), Nest.js
 * **APIs:** API Rest
-* **Bancos de Dados/Outros:** Firebase
+* **Bancos de Dados/Outros:** Firebase, MongoDb, Oracle
 
 **Mobile:**
 * React Native, Expo, Android
