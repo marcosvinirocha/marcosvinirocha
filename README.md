@@ -1,195 +1,133 @@
+Marcos Vinicius Oliveira Rocha
 
-Acesse meu portfólio em: 
-<a href="https://gitfollio.vercel.app/marcosvinirocha"> 🔗
-  https://gitfollio.vercel.app/marcosvinirocha
-</a>
+Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis
 
-<!-- GitFolio:start
-{
-  "gitfolio": "on",
-  "name": "Marcos Vinicius Oliveira Rocha",
-  "email": "marcosvinicius.udia1256@gmail.com",
-  "tagline": "Frontend & Backend Developer",
-  "avatar_url": "https://avatars.githubusercontent.com/u/58306052?v=4",
-  "website": "",
-  "githubUser": "marcosvinirocha",
-  "linkedinUser": "https://www.linkedin.com/in/marcosoliveirarocha/",
-  "about": "Sou um desenvolvedor meio de carreira com mais de 2 anos de experiência em desenvolvimento web e mobile, especializado em criar interfaces responsivas e escaláveis utilizando React.js, Vue.js, Node.js, Java, Kotlin e Spring Boot. Tenho paixão por entregar soluções que combinam usabilidade, performance e código limpo, com destaque para a redução de 30% no tempo de carregamento de aplicações e aumento de 25% na satisfação do usuário em projetos na Blips Ativos.",
-  "showStars": true,
-  "showFollowers": true,
-  "followers": 3,
-  "following": 6,
-  "themeId": "cyberpunk",
-  "tech": [
-  "JavaScript,TypeScript,Java,Kotlin,SQL,React.js,Next.js,Vue.js,Vuetify,HTML5,CSS3,Tailwind CSS,Redux,Webpack,Node.js,Spring Boot,Quarkus,RESTful APIs,React Native,Android,Kotlin,MongoDB,PostgreSQL,MySQL,Oracle,Firebase,Docker,Git,GitHub Actions,Jenkins,CI/CD,Jest,Cypress,Testes Unitários,Testes de Integração,TDD,Agile,Scrum,Kanban,Colaboração,Liderança,Resolução de Problemas,Comunicação"
-],
-  "projects": [
-  {
-    "id": 424692965,
-    "repoName": "expensivetrackerapi",
-    "url": "https://github.com/marcosvinirocha/expensivetrackerapi",
-    "stars": 1,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 427071280,
-    "repoName": "bancoalgar",
-    "url": "https://github.com/marcosvinirocha/bancoalgar",
-    "stars": 1,
-    "description": "Essa API foi desenvolvida em Spring Boot, com a finalidade para apresentar as funcionalidades de um banco. Foi implementado todas as principais funções que um banco pode fazer.",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 484547255,
-    "repoName": "react-redux-talk",
-    "url": "https://github.com/marcosvinirocha/react-redux-talk",
-    "stars": 1,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 665702572,
-    "repoName": "empresa360",
-    "url": "https://github.com/marcosvinirocha/empresa360",
-    "stars": 1,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 747837138,
-    "repoName": "sistema-caixa",
-    "url": "https://github.com/marcosvinirocha/sistema-caixa",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 860587324,
-    "repoName": "simple-meditation-app-expo-react-native",
-    "url": "https://github.com/marcosvinirocha/simple-meditation-app-expo-react-native",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 860981645,
-    "repoName": "buscadorCep",
-    "url": "https://github.com/marcosvinirocha/buscadorCep",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 860981969,
-    "repoName": "conversorMoedas",
-    "url": "https://github.com/marcosvinirocha/conversorMoedas",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 861457913,
-    "repoName": "AluraGames",
-    "url": "https://github.com/marcosvinirocha/AluraGames",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 999650519,
-    "repoName": "udemy-proposta_app",
-    "url": "https://github.com/marcosvinirocha/udemy-proposta_app",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1007947138,
-    "repoName": "meu-primeiro-app-angular",
-    "url": "https://github.com/marcosvinirocha/meu-primeiro-app-angular",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1025693362,
-    "repoName": "Curso-Desenvolvimento-Android",
-    "url": "https://github.com/marcosvinirocha/Curso-Desenvolvimento-Android",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1046315660,
-    "repoName": "psicomanager-frontend-challenge",
-    "url": "https://github.com/marcosvinirocha/psicomanager-frontend-challenge",
-    "stars": 0,
-    "description": "Desafio frontend",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1057332035,
-    "repoName": "spring-store",
-    "url": "https://github.com/marcosvinirocha/spring-store",
-    "stars": 0,
-    "description": "Source code for the project in my Spring Boot course",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  },
-  {
-    "id": 1060074959,
-    "repoName": "QuizApp",
-    "url": "https://github.com/marcosvinirocha/QuizApp",
-    "stars": 0,
-    "description": "",
-    "image": "",
-    "techs": [],
-    "deploy": "",
-    "highlighted": false
-  }
-]
-}
-GitFolio:end -->
-  
+Olá! Sou um Desenvolvedor Frontend com mais de 2 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em React.js, Vue.js, Node.js, Java, Kotlin e Spring Boot, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (Scrum, Kanban) e práticas de DevOps para entregar projetos de alta qualidade.
+
+🌟 Destaques da Carreira:
+
+
+
+
+
+Reduzi o tempo de carregamento de aplicações web em 30% com técnicas como lazy loading e code splitting.
+
+
+
+Aumentei a satisfação do usuário em 25% por meio de interfaces responsivas e testes A/B.
+
+
+
+Implementei pipelines CI/CD com GitHub Actions e Jenkins, reduzindo erros de deploy em 40%.
+
+
+
+Criei bibliotecas de componentes reutilizáveis com Tailwind CSS, acelerando entregas em 25%.
+
+
+
+Fluente em Inglês (B2), com fortes habilidades em colaboração, resolução de problemas e aprendizado rápido.
+
+🛠 Habilidades Técnicas
+
+
+
+
+
+Linguagens de Programação: JavaScript, TypeScript, Java, Kotlin, SQL
+
+
+
+Frontend: React.js, Next.js, Vue.js, Vuetify, HTML5, CSS3, Tailwind CSS, Redux, Webpack
+
+
+
+Backend: Node.js, Spring Boot, Quarkus, RESTful APIs
+
+
+
+Mobile: React Native, Android, Kotlin
+
+
+
+Bancos de Dados: MongoDB, PostgreSQL, MySQL, Oracle, Firebase
+
+
+
+DevOps: Docker, Git, GitHub Actions, Jenkins, CI/CD
+
+
+
+Testes: Jest, Cypress, Testes Unitários, Testes de Integração, TDD
+
+
+
+Metodologias: Agile, Scrum, Kanban
+
+
+
+Soft Skills: Colaboração, Liderança, Resolução de Problemas, Comunicação
+
+📚 Formação Acadêmica
+
+
+
+
+
+Bacharelado em Sistemas de Informação
+Centro Universitário Una, Uberlândia, MG — Concluído em Jan/2023
+
+
+
+Pós-graduação em Defesa Cibernética (Em andamento)
+Anhanguera Educacional, Uberlândia, MG — Início em Abr/2025
+
+🌍 Idiomas
+
+
+
+
+
+Português: Nativo
+
+
+
+Inglês: Avançado (B2)
+
+📬 Contato
+
+
+
+
+
+📍 Localização: Uberlândia, MG, Brasil
+
+
+
+📱 Telefone: +55 (34) 99206-3946
+
+
+
+✉️ E-mail: marcosvinicius.udia1256@gmail.com
+
+
+
+💼 LinkedIn: linkedin.com/in/marcosoliveirarocha
+
+
+
+🐙 GitHub: github.com/marcosvinirocha
+
+🚀 Projetos em Destaque
+
+
+
+
+
+Plataforma Squad Ajudar (2020)
+Plataforma educacional desenvolvida com React.js, Node.js e MySQL, hospedada no Heroku. Gerenciei o desenvolvimento com Scrum/Trello, prototipagem no Figma e modelagem UML com Astah.
+🔗 Repositório
+
+
+
+💡 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos inovadores. Vamos construir algo incrível juntos?
