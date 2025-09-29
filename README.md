@@ -1,77 +1,159 @@
-# Olá! 👋 Sou um Desenvolvedor Fullstack Ágil e Adaptável
 
-Com mais de 2 anos de experiência, possuo um histórico comprovado na entrega de soluções web inovadoras e de alta qualidade. Minha paixão por aprender continuamente e a aplicação de metodologias centradas no usuário me permitem criar produtos digitais relevantes e impactantes.
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/marcosvinirocha"> 🔗
+  https://gitfollio.vercel.app/marcosvinirocha
+</a>
 
-Busco integrar equipes dinâmicas e colaborativas para contribuir com projetos desafiadores e de grande escala.
-
-## 🛠️ Habilidades
-
-Minha expertise abrange um amplo espectro de tecnologias e práticas de desenvolvimento:
-
-### Front-end
-
-- **Frameworks/Bibliotecas**: React, Next.js, Vue
-- **Linguagens**: JavaScript, TypeScript, HTML, CSS
-- **Estilização**: Tailwind CSS, Ant Design, Bootstrap, Styled Components
-- **Outros**: jQuery, Design System, Mobile First, Responsive Design
-
-### Back-end
-
-- **Linguagens/Frameworks**: Node.js, Java (Spring Boot, Quarkus), Nest.js
-- **APIs**: API Rest
-- **Bancos de Dados/Outros**: Firebase, MongoDB, Oracle
-
-### Mobile
-
-- React Native, Expo, Android
-
-### Arquitetura e Boas Práticas
-
-- SOLID, Design Patterns, PWA, SPA
-
-### Testes
-
-- Unit Testing (Jest, Cypress)
-
-### DevOps e Ferramentas
-
-- CI/CD, Insomnia, GitFlow, ESLint, Prettier, Git, GitHub, GitLab, GitHub Actions
-
-### Metodologias
-
-- Experiência em metodologias ágeis (Scrum e Kanban)
-
-## 🌱 Aprendizado Contínuo
-
-Acredito que a busca constante por conhecimento é fundamental no mundo da tecnologia. Estou sempre explorando novas ferramentas, frameworks e abordagens para aprimorar minhas habilidades e entregar soluções ainda melhores.
-
-## 🏆 Badges
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white" alt="Scrum" />
-</div>
-
-## 🤝 Conecte-se Comigo
-
-Estou aberto a novas oportunidades e colaborações. Se você busca um desenvolvedor fullstack dedicado, com experiência e paixão por criar experiências digitais memoráveis, entre em contato!
-
-**E-mail**: [marcosvinicius.udia1256@gmail.com](mailto:marcosvinicius.udia1256@gmail.com)  
-**LinkedIn**: [/in/marcosudia1256/](https://www.linkedin.com/in/marcosudia1256/)
-
-Vamos construir algo incrível juntos! ✨
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Marcos Vinicius Oliveira Rocha",
+  "email": "marcosvinicius.udia1256@gmail.com",
+  "tagline": "Frontend & Backend Developer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/58306052?v=4",
+  "website": "",
+  "githubUser": "marcosvinirocha",
+  "linkedinUser": "https://www.linkedin.com/in/marcosoliveirarocha/",
+  "about": "Sou um desenvolvedor meio de carreira com mais de 2 anos de experiência em desenvolvimento web e mobile, especializado em criar interfaces responsivas e escaláveis utilizando React.js, Vue.js, Node.js, Java, Kotlin e Spring Boot. Tenho paixão por entregar soluções que combinam usabilidade, performance e código limpo, com destaque para a redução de 30% no tempo de carregamento de aplicações e aumento de 25% na satisfação do usuário em projetos na Blips Ativos.",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 3,
+  "following": 6,
+  "themeId": "cyberpunk",
+  "tech": [
+  "React.js",
+  "Vue.js",
+  "TypeScript",
+  "Java",
+  "Kotlin | Spring Boot",
+  "Quarkus | DevOps (CI/CD",
+  "Docker",
+  "GitHub Actions",
+  "Jenkins) | Testes automatizados | Agile/Scrum"
+],
+  "projects": [
+  {
+    "id": 1046315660,
+    "repoName": "psicomanager-frontend-challenge",
+    "url": "https://github.com/marcosvinirocha/psicomanager-frontend-challenge",
+    "stars": 0,
+    "description": "Desafio frontend",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 860982522,
+    "repoName": "frontend-react-personalidades-master",
+    "url": "https://github.com/marcosvinirocha/frontend-react-personalidades-master",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 860981969,
+    "repoName": "conversorMoedas",
+    "url": "https://github.com/marcosvinirocha/conversorMoedas",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 860981645,
+    "repoName": "buscadorCep",
+    "url": "https://github.com/marcosvinirocha/buscadorCep",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 747837138,
+    "repoName": "sistema-caixa",
+    "url": "https://github.com/marcosvinirocha/sistema-caixa",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 542208541,
+    "repoName": "formulario-vue.js",
+    "url": "https://github.com/marcosvinirocha/formulario-vue.js",
+    "stars": 1,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 515322256,
+    "repoName": "parking-control-api",
+    "url": "https://github.com/marcosvinirocha/parking-control-api",
+    "stars": 1,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 491169786,
+    "repoName": "desafiov2_java_Quarkus",
+    "url": "https://github.com/marcosvinirocha/desafiov2_java_Quarkus",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 484547255,
+    "repoName": "react-redux-talk",
+    "url": "https://github.com/marcosvinirocha/react-redux-talk",
+    "stars": 1,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 427071280,
+    "repoName": "bancoalgar",
+    "url": "https://github.com/marcosvinirocha/bancoalgar",
+    "stars": 1,
+    "description": "Essa API foi desenvolvida em Spring Boot, com a finalidade para apresentar as funcionalidades de um banco. Foi implementado todas as principais funções que um banco pode fazer.",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 424692965,
+    "repoName": "expensivetrackerapi",
+    "url": "https://github.com/marcosvinirocha/expensivetrackerapi",
+    "stars": 1,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
