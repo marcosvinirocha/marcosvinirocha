@@ -37,7 +37,6 @@ Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenv
 ## 📬 Contato
 
 - 📍 **Localização**: Uberlândia, MG, Brasil
-- 📱 **Telefone**: [+55 (34) 99206-3946](https://wa.me/5534992063946)
 - ✉️ **E-mail**: [marcosvinicius.udia1256@gmail.com](mailto:marcosvinicius.udia1256@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/marcosoliveirarocha](https://www.linkedin.com/in/marcosoliveirarocha)
 - 🐙 **GitHub**: [github.com/marcosvinirocha](https://github.com/marcosvinirocha)
