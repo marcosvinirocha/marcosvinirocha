@@ -1,7 +1,7 @@
 # Marcos Vinicius Oliveira Rocha
 🖥️ **Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis**
 
-Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Node.js**, **Java**, **Kotlin** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
+Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Java** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
 
 🌟 **Destaques da Carreira**:
 - Reduzi o tempo de carregamento de aplicações web em **30%** com técnicas como lazy loading e code splitting.
@@ -12,13 +12,13 @@ Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenv
 
 ## 🛠 Habilidades Técnicas
 
-- **Linguagens de Programação**: JavaScript, TypeScript, Java, Kotlin, SQL
+- **Linguagens de Programação**: JavaScript, TypeScript, Java, SQL
 - **Frontend**: React.js, Next.js, Vue.js, Vuetify, HTML5, CSS3, Tailwind CSS, Redux, Webpack
 - **Backend**: Node.js, Spring Boot, Quarkus, RESTful APIs
-- **Mobile**: React Native, Android, Kotlin
+- **Mobile**: React Native, Android
 - **Bancos de Dados**: MongoDB, PostgreSQL, MySQL, Oracle, Firebase
 - **DevOps**: Docker, Git, GitHub Actions, Jenkins, CI/CD
-- **Testes**: Jest, Cypress, Testes Unitários, Testes de Integração, TDD
+- **Testes**: Cypress, Testes Unitários, Testes de Integração, TDD
 - **Metodologias**: Agile, Scrum, Kanban
 - **Soft Skills**: Colaboração, Liderança, Resolução de Problemas, Comunicação
 
