@@ -1,5 +1,5 @@
 # Marcos Vinicius Oliveira Rocha
-🖥️**Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis**
+🖥️ **Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis**
 
 Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Node.js**, **Java**, **Kotlin** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
 
