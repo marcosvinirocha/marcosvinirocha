@@ -1,7 +1,7 @@
 # Marcos Vinicius Oliveira Rocha
 🖥️ **Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis**
 
-Olá! Sou um Desenvolvedor Frontend com mais de 3 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Java** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
+Olá! Sou um Desenvolvedor Frontend com mais de 4 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Java** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
 
 🌟 **Destaques da Carreira**:
 - Reduzi o tempo de carregamento de aplicações web em **30%** com técnicas como lazy loading e code splitting.
