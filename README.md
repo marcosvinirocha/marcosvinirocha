@@ -26,8 +26,8 @@ Olá! Sou um Desenvolvedor Frontend com mais de 4 anos de experiência em desenv
 
 - **Bacharelado em Sistemas de Informação**  
   Centro Universitário Una, Uberlândia, MG — Concluído em Jan/2023
-- **Pós-graduação em Defesa Cibernética** (Em andamento)  
-  Anhanguera Educacional, Uberlândia, MG — Início em Abr/2025
+- **Pós-graduação em Defesa Cibernética**   
+  Anhanguera Educacional, Uberlândia, MG — Concluído em Dez/2025
 
 ## 🌍 Idiomas
 
