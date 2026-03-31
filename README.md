@@ -1,53 +1,70 @@
-# Marcos Vinicius Oliveira Rocha
-🖥️ **Desenvolvedor Frontend | Especialista em Interfaces Responsivas e Soluções Escalonáveis**
-
-Olá! Sou um Desenvolvedor Frontend com mais de 4 anos de experiência em desenvolvimento web e mobile, apaixonado por criar interfaces intuitivas e performáticas. Tenho expertise em **React.js**, **Vue.js**, **Java** e **Spring Boot**, com foco em construir soluções escaláveis, otimizar desempenho e melhorar a experiência do usuário. Minha abordagem combina código limpo, metodologias ágeis (**Scrum**, **Kanban**) e práticas de **DevOps** para entregar projetos de alta qualidade.
-
-🌟 **Destaques da Carreira**:
-- Reduzi o tempo de carregamento de aplicações web em **30%** com técnicas como lazy loading e code splitting.
-- Aumentei a satisfação do usuário em **25%** por meio de interfaces responsivas e testes A/B.
-- Implementei pipelines **CI/CD** com **GitHub Actions** e **Jenkins**, reduzindo erros de deploy em **40%**.
-- Criei bibliotecas de componentes reutilizáveis com **Tailwind CSS**, acelerando entregas em **25%**.
-- Fluente em **Inglês (B2)**, com fortes habilidades em colaboração, resolução de problemas e aprendizado rápido.
-
-## 🛠 Habilidades Técnicas
-
-- **Linguagens de Programação**: JavaScript, TypeScript, Java, SQL
-- **Frontend**: React.js, Next.js, Vue.js, Vuetify, HTML5, CSS3, Tailwind CSS, Redux, Webpack
-- **Backend**: Node.js, Spring Boot, Quarkus, RESTful APIs
-- **Mobile**: React Native, Android
-- **Bancos de Dados**: MongoDB, PostgreSQL, MySQL, Oracle, Firebase
-- **DevOps**: Docker, Git, GitHub Actions, Jenkins, CI/CD
-- **Testes**: Cypress, Testes Unitários, Testes de Integração, TDD
-- **Metodologias**: Agile, Scrum, Kanban
-- **Soft Skills**: Colaboração, Liderança, Resolução de Problemas, Comunicação
-
-## 📚 Formação Acadêmica
-
-- **Bacharelado em Sistemas de Informação**  
-  Centro Universitário Una, Uberlândia, MG — Concluído em Jan/2023
-- **Pós-graduação em Defesa Cibernética**   
-  Anhanguera Educacional, Uberlândia, MG — Concluído em Dez/2025
-
-## 🌍 Idiomas
-
-- **Português**: Nativo
-- **Inglês**: Avançado (B2)
-
-## 📬 Contato
-
-- 📍 **Localização**: Uberlândia, MG, Brasil
-- ✉️ **E-mail**: [marcosvinicius.udia1256@gmail.com](mailto:marcosvinicius.udia1256@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/marcosoliveirarocha](https://www.linkedin.com/in/marcosoliveirarocha)
-- 🐙 **GitHub**: [github.com/marcosvinirocha](https://github.com/marcosvinirocha)
-- 🌐 **Webstite**: [portifolio-page-flax.vercel.app](https://portifolio-page-flax.vercel.app/)
-
-## 🚀 Projetos em Destaque
-
-- **Plataforma Squad Ajudar** (2020)  
-  Plataforma educacional desenvolvida com **React.js**, **Node.js** e **MySQL**, hospedada no Heroku. Gerenciei o desenvolvimento com **Scrum/Trello**, prototipagem no **Figma** e modelagem UML com **Astah**.  
-  🔗 [Repositório](https://github.com/freelaah)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/main/banner.png" alt="Banner Marcos Vinicius" width="100%">
+</div>
 
 ---
 
-💡 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades em projetos inovadores. Vamos construir algo incrível juntos?
+# Olá, eu sou o Marcos Vinicius 👋
+
+Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em construir aplicações escaláveis e performáticas. Sou entusiasta de **Spec-Driven Development (SDD)** e acredito que um código bem testado é o único código que deve ir para produção.
+
+- 🔭 Atualmente trabalhando no **OpenCode** (análise e "roasting" de código).
+- 🛠️ Especialista em ecossistemas **React**, **Vue** e **Java**.
+- 🧪 Focado em qualidade com **Vitest**, **Cypress** e **JUnit**.
+
+---
+
+## 🛠️ My Toolbox
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & DB
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-%234695EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **OpenCode** | Ferramenta de análise técnica e roast de código usando IA. | tRPC, Drizzle, AI Agents |
+| **Smart Inventory** | Sistema de controle de estoque industrial com algoritmos de otimização. | Quarkus, React, Redux |
+| **Modding KubeJS** | Refatoração de receitas e lógica complexa para TerraFirmaCraft. | JavaScript, Minecraft Forge |
+
+---
+
+## 📫 Onde me encontrar
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marcosoliveirarocha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:marcosvinicius.udia1256@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/marcosvinirocha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+[ ⛏️ Crafting better software, one commit at a time ]
