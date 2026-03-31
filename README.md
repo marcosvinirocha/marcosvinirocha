@@ -8,7 +8,7 @@
 
 Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em construir aplicações escaláveis e performáticas. Sou entusiasta de **Spec-Driven Development (SDD)** e acredito que um código bem testado é o único código que deve ir para produção.
 
-- 🔭 Atualmente trabalhando no **DevRoast** (análise e "roasting" de código).
+- 📚 Explorando integração de IA em aplicações full stack
 - 🛠️ Especialista em ecossistemas **React**, **Vue** e **Java**.
 - 🧪 Focado em qualidade com **Vitest**, **Cypress** e **JUnit**.
 
