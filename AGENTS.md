@@ -123,4 +123,4 @@ rm -rf package.json package-lock.json node_modules generate-banner.js
 |---------|-----------|-----------|
 | OpenCode | Ferramenta de análise e roast de código com IA | tRPC, Drizzle, AI Agents |
 | Smart Inventory | Sistema de controle de estoque industrial | Quarkus, React, Redux |
-| Modding KubeJS | Refatoração de receitas para TerraFirmaCraft | JavaScript, Minecraft Forge |
+| Freelah | Plataforma de trilhas de cursos para desenvolvimento profissional | React, Node.js, Express |

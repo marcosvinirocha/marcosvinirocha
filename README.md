@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/main/banner.png" alt="Banner Marcos Vinicius" width="100%">
+  <img src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/master/banner.png" alt="Banner Marcos Vinicius" width="100%">
 </div>
 
 ---
@@ -35,8 +35,8 @@ Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em c
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvinirocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvinirocha&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marcosvinirocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=marcosvinirocha&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ---
@@ -47,7 +47,7 @@ Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em c
 | :--- | :--- | :--- |
 | **OpenCode** | Ferramenta de análise técnica e roast de código usando IA. | tRPC, Drizzle, AI Agents |
 | **Smart Inventory** | Sistema de controle de estoque industrial com algoritmos de otimização. | Quarkus, React, Redux |
-| **Modding KubeJS** | Refatoração de receitas e lógica complexa para TerraFirmaCraft. | JavaScript, Minecraft Forge |
+| **Freelah** | Plataforma de trilhas de cursos para desenvolvimento profissional. | React, Node.js, Express |
 
 ---
 
