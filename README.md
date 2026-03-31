@@ -17,6 +17,7 @@ Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em c
 ## 🛠️ My Toolbox
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -24,6 +25,7 @@ Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em c
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & DB
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,11 +45,11 @@ Sou um **Engenheiro de Software Full Stack** baseado em Uberlândia, focado em c
 
 ## 🚀 Featured Projects
 
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| **OpenCode** | Ferramenta de análise técnica e roast de código usando IA. | tRPC, Drizzle, AI Agents |
-| **Smart Inventory** | Sistema de controle de estoque industrial com algoritmos de otimização. | Quarkus, React, Redux |
-| **Freelah** | Plataforma de trilhas de cursos para desenvolvimento profissional. | React, Node.js, Express |
+| Projeto             | Descrição                                                               | Tech Stack               |
+| :------------------ | :---------------------------------------------------------------------- | :----------------------- |
+| **DevRoast**        | Ferramenta de análise técnica e roast de código usando IA.              | tRPC, Drizzle, AI Agents |
+| **Smart Inventory** | Sistema de controle de estoque industrial com algoritmos de otimização. | Quarkus, React, Redux    |
+| **Freelah**         | Plataforma de trilhas de cursos para desenvolvimento profissional.      | React, Node.js, Express  |
 
 ---
 
