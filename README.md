@@ -6,7 +6,7 @@
 
 # Olá, eu sou o Marcos Vinicius 👋
 
-Sou um **Engenheiro de Software Full Stack**  em Uberlândia, focado em construir aplicações escaláveis e performáticas. Sou entusiasta de **Spec-Driven Development (SDD)** e acredito que um código bem testado é o único código que deve ir para produção.
+Desenvolvedor Frontend/Fullstack com foco na construção de aplicações escaláveis, performáticas e orientadas à experiência do usuário. Experiência em React, Next.js, TypeScript e Vue.js, atuando na evolução arquitetural de aplicações, otimização de performance, design systems e integração com APIs.
 
 - 📚 Explorando integração de IA em aplicações full stack
 - 🛠️ Especialista em ecossistemas **React**, **Vue** e **Java**.
