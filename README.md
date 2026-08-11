@@ -49,8 +49,8 @@
 - **Smart Inventory** 🏭📦📈
   - 📝 **Descrição**: Sistema corporativo robusto para controle de estoque industrial com algoritmos de otimização de fluxo de materiais.
   - 🔍 **Desafio**: Lidar com grandes volumes de dados de inventário em tempo real sem travar a interface do usuário ou gerar latência no servidor.
-  - 💡 **A Solução**: Construído com uma API extremamente veloz em Quarkus e Java no ecossistema de microsserviços. No frontend, implementei uma arquitetura SPA com React e Redux para gerenciamento de estado previsível, permitindo atualizações assíncronas e painéis analíticos fluidos.
-  - 💻 **Techs**: Quarkus, Java, React, Redux, REST APIs.
+  - 💡 **A Solução**: Construído com uma API extremamente veloz em Quarkus e Java.
+  - 💻 **Techs**: Quarkus, Java, REST APIs.
 
 - **Freelah** 🚀📚🎓
   - 📝 **Descrição**: Plataforma de aprendizado focada na criação e consumo de trilhas personalizadas de cursos para desenvolvimento profissional.
