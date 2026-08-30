@@ -1,35 +1,225 @@
 <div align="center">
-  <a href="https://portifolio-page-flax.vercel.app/">
-    <img src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/master/banner.png" alt="Meu Banner" width="100%">
-  </a>
+
+# 👋 Olá, eu sou Marcos Vinicius
+
+### Frontend Engineer | Fullstack Developer
+
+**React.js • Next.js • TypeScript • Node.js • Java • Spring Boot • Quarkus**
+
+Construo produtos digitais com foco em **performance, arquitetura escalável, experiência do usuário e qualidade de código**.
+
+Minha atuação combina engenharia de frontend com visão de backend, permitindo trabalhar desde a construção de interfaces e Design Systems até APIs, integração de serviços, bancos de dados e pipelines de CI/CD.
+
+<br>
+
+<a href="https://portifolio-page-flax.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/marcosoliveirarocha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:marcosvinicius.udia1256@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou **Software Engineer com foco em Frontend**, atuando principalmente com **React, Next.js, TypeScript e JavaScript**.
+
+Tenho experiência na construção e evolução de aplicações web, trabalhando com **arquitetura frontend, performance, Design Systems, integração com APIs REST, testes automatizados e CI/CD**.
+
+Também possuo experiência com backend utilizando **Node.js, Java, Spring Boot e Quarkus**, além de bancos relacionais e NoSQL.
+
+Meu objetivo é transformar requisitos de produto em soluções que sejam:
+
+* ⚡ Performáticas
+* 🧩 Escaláveis
+* 🧪 Testáveis
+* 🔐 Seguras
+* ♻️ Manuteníveis
+* 🎯 Orientadas ao problema de negócio
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,vite" />
+</p>
+
+**React.js · Next.js · Vue.js · TypeScript · JavaScript · Tailwind CSS · Vite**
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,quarkus" />
+</p>
+
+**Node.js · Express · Java · Spring Boot · Quarkus · REST APIs**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · SQLite**
+
+### Testing & Quality
+
+**Jest · Vitest · Cypress · Playwright · Clean Code · Code Review**
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,docker,git,github,jenkins,aws,kubernetes" />
+</p>
+
+**Git · GitHub · GitHub Actions · Docker · Jenkins · AWS · Kubernetes · CI/CD**
+
+### Architecture & Engineering
+
+**Microservices · Micro-frontends · Design Systems · SSR · Code Splitting · Lazy Loading · Core Web Vitals · API Design · Observability**
+
+---
+
+# 🚀 Projetos em destaque
+
+## 🤖 DevRoast
+
+**Análise técnica de código utilizando IA**
+
+Uma plataforma criada para analisar código-fonte e gerar feedback técnico automatizado, combinando engenharia de software com AI-assisted development.
+
+### Problema
+
+Como automatizar parte do processo de revisão técnica sem transformar o feedback em uma simples análise estática?
+
+### Solução
+
+Arquitetura baseada em **agentes de IA**, comunicação type-safe utilizando **tRPC** e persistência através de **Drizzle ORM**.
+
+### Engenharia aplicada
+
+* 🤖 AI Agents
+* 🔒 Comunicação type-safe
+* 🧩 Arquitetura modular
+* 🗄️ Drizzle ORM
+* ⚛️ React
+* 📘 TypeScript
+
+**Stack:** `React` `TypeScript` `tRPC` `Drizzle` `AI Agents`
+
+---
+
+## 🏭 Smart Inventory
+
+**Sistema de gestão de estoque industrial**
+
+Aplicação voltada ao controle de inventário e fluxo de materiais, projetada para trabalhar com grandes volumes de dados.
+
+### Problema
+
+Processar operações de estoque mantendo **baixa latência e boa experiência de uso**, mesmo com grande quantidade de informações.
+
+### Solução
+
+API desenvolvida utilizando **Java + Quarkus**, priorizando performance, baixo overhead e arquitetura preparada para operações de alta demanda.
+
+### Engenharia aplicada
+
+* ⚡ APIs de alta performance
+* 🔄 Processamento de dados
+* 🏗️ Arquitetura backend
+* 📡 REST APIs
+* ☕ Java
+* 🚀 Quarkus
+
+**Stack:** `Java` `Quarkus` `REST API`
+
+---
+
+## 🎓 Freelah
+
+**Plataforma de aprendizado e desenvolvimento profissional**
+
+Aplicação focada na criação e consumo de trilhas de aprendizagem personalizadas.
+
+### Problema
+
+Criar uma experiência de navegação modular e escalável que permitisse acompanhar diferentes etapas de aprendizado.
+
+### Solução
+
+Desenvolvimento do ecossistema utilizando **React no frontend** e **Node.js + Express no backend**, com foco em reutilização, responsividade e organização arquitetural.
+
+### Engenharia aplicada
+
+* ⚛️ React
+* 🟢 Node.js
+* 🔌 REST APIs
+* 🧩 Componentização
+* 📱 Responsive Design
+* 🧹 Clean Code
+
+**Stack:** `React` `Node.js` `Express` `Tailwind CSS`
+
+---
+
+# ⚡ Engenharia na prática
+
+Alguns dos problemas que gosto de resolver:
+
+### Performance
+
+Aplicações rápidas não dependem apenas de hardware ou infraestrutura.
+
+Trabalho com estratégias como:
+
+`Code Splitting` → `Lazy Loading` → `Bundle Optimization` → `SSR` → `Core Web Vitals`
+
+### Arquitetura Frontend
+
+Busco construir aplicações onde a complexidade possa crescer sem transformar o código em um monólito difícil de manter.
+
+**Componentização · Design Systems · Modularidade · Micro-frontends · State Management**
+
+### Backend
+
+A visão de frontend não termina na interface.
+
+Também trabalho com:
+
+**Node.js · Java · Spring Boot · Quarkus · REST APIs · PostgreSQL · MongoDB**
+
+### Entrega
+
+Código de qualidade precisa chegar ao usuário com segurança.
+
+Por isso, considero parte da engenharia:
+
+**Git · CI/CD · GitHub Actions · Docker · Automated Tests · Code Review**
+
+---
+
+# 📊 GitHub
 
 <div align="center">
-  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" style="vertical-align: middle;"> Olá, eu sou o Marcos Vinicius!</h1>
-  <h3>Fullstack Engineer especializado em arquitetura Frontend de alta performance. Traduzo requisitos de produto em código limpo, escalável e centrado na experiência do usuário, integrando de forma fluida o ecossistema do cliente ao servidor.</h3>
-  <h4>Pleno | React.js • Next.js • Vue.js • TypeScript • Java • Spring Boot • Quarkus • Node.js • CI/CD</h4>
+
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marcosvinirocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=marcosvinirocha&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
-###
+### 👾 Contribution Graph
 
-<h3 align="left">🛠️ Minha Toolbox (Tech Stack)</h3>
-
-###
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%"><b>Frontend & Interface</b><br><img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,bootstrap,vite" /></td>
-      <td align="center" width="50%"><b>Backend & Banco de Dados</b><br><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql" /></td>
-    </tr>
-    <tr>
-      <td align="center" width="50%"><b>DevOps & Cultura Ágil</b><br><img src="https://skillicons.dev/icons?i=githubactions,docker,git,github,vscode" /></td>
-      <td align="center" width="50%"><b>Arquitetura & IA</b><br><img src="https://skillicons.dev/icons?i=quarkus,figma,framer,postman" /></td>
-    </tr>
-  </table>
-</div>
-
-### 👾 Meu GitHub Contribution Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
@@ -38,71 +228,57 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+# 🎯 Como penso engenharia
 
-- **DevRoast** 🤖🔥💻
-  - 📝 **Descrição**: Ferramenta inteligente de análise técnica e *roast* (crítica construtiva) de código-fonte.
-  - 🔍 **Desafio**: Validar e analisar qualidade de código de forma automatizada, fornecendo feedbacks que unam precisão técnica e engajamento para desenvolvedores.
-  - 💡 **A Solução**: Desenvolvido utilizando agentes de IA integrados à arquitetura frontend de alto rendimento com tRPC para comunicação estritamente tipada e Drizzle ORM no gerenciamento de dados de forma ágil e segura.
-  - 💻 **Techs**: tRPC, Drizzle, AI Agents, React, TypeScript.
+> **Frontend não é apenas interface. Backend não é apenas API.**
 
-- **Smart Inventory** 🏭📦📈
-  - 📝 **Descrição**: Sistema corporativo robusto para controle de estoque industrial com algoritmos de otimização de fluxo de materiais.
-  - 🔍 **Desafio**: Lidar com grandes volumes de dados de inventário em tempo real sem travar a interface do usuário ou gerar latência no servidor.
-  - 💡 **A Solução**: Construído com uma API extremamente veloz em Quarkus e Java.
-  - 💻 **Techs**: Quarkus, Java, REST APIs.
+Gosto de entender o sistema de ponta a ponta.
 
-- **Freelah** 🚀📚🎓
-  - 📝 **Descrição**: Plataforma de aprendizado focada na criação e consumo de trilhas personalizadas de cursos para desenvolvimento profissional.
-  - 🔍 **Desafio**: Prover uma navegação fluida, escalável e modular para que usuários pudessem acompanhar seu progresso educacional de ponta a ponta de maneira intuitiva.
-  - 💡 **A Solução**: Desenvolvi o ecossistema completo utilizando React no frontend e uma API REST estruturada em Node.js e Express, priorizando os princípios de Clean Code, reutilização de componentes e responsividade.
-  - 💻 **Techs**: React, Node.js, Express, Tailwind CSS.
+Uma decisão tomada em um componente pode afetar:
+
+**UX → Performance → API → Banco → Infraestrutura → Custo**
+
+Por isso, busco equilibrar **experiência do usuário, qualidade técnica, performance e necessidades do produto**.
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+# 📚 Atualmente explorando
 
-  <div style="flex: 1; width: 45%;">
-        <img align="left" width="100%" alt="Estatísticas do GitHub" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marcosvinirocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-        <br><br>
-        <img align="left" width="100%" alt="Linguagens Mais Usadas" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=marcosvinirocha&layout=compact&langs_count=7&theme=dracula">
-  </div>
-
-  <div style="flex: 1; width: 50%; text-align: left; margin-left: 20px;">
-        <h3>🌎 Vamos nos conectar e construir juntos!</h3>
-        <p>
-            <a href="https://www.linkedin.com/in/marcosoliveirarocha" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
-            </a>
-            <a href="mailto:marcosvinicius.udia1256@gmail.com" style="text-decoration: none;">
-                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail">
-            </a>
-            <a href="https://portifolio-page-flax.vercel.app/" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="Portfolio">
-            </a>
-        </p>
-        
-  <h3>✨ Fun Facts & Interesses</h3>
-        <ul>
-            <li>Possuo pós-graduação em Defesa Cibernética (segurança em primeiro lugar na escrita do código!).</li>
-            <li>Entusiasta de automação técnica e AI-assisted development para acelerar refatorações e testes.</li>
-            <li>Gosto de entender o produto de ponta a ponta — do componente visual à query no banco de dados.</li>
-        </ul>
-        
-  <h3>💡 Abordagem de Engenharia</h3>
-        <p>
-          O que me move é a visão sistêmica. Acredito que a barreira entre frontend e backend diminui quando o engenheiro entende tanto o ciclo de vida de um componente em tela quanto a carga de dados do microsserviço que o alimenta. Foco em otimização de performance (code splitting), design systems modulares e esteiras de CI/CD confiáveis.
-        </p> 
-        
-  <h3>🧑‍💻 Sobre Mim</h3>
-        <p>
-          Com mais de 4 anos de experiência prática construindo produtos digitais, atuo focado no ecossistema JavaScript/TypeScript no client-side e com robustez corporativa de Java (Spring/Quarkus) e Node.js no server-side. Sempre buscando resolver problemas de negócios reais com soluções técnicas elegantes.
-        </p>
-    </div>
-</div>
+* 🤖 AI-assisted development
+* 🏗️ Arquiteturas frontend escaláveis
+* ⚡ Web Performance
+* 🧩 Design Systems
+* 🧪 Estratégias de testes
+* ☁️ Cloud & CI/CD
+* 🔐 Segurança de aplicações
+* 📐 Arquitetura de software
 
 ---
+
+# 🌎 Vamos construir algo?
+
+Estou aberto a oportunidades e projetos envolvendo:
+
+**Frontend Engineering · React · Next.js · TypeScript · Fullstack · Node.js · Java**
+
+<br>
 
 <div align="center">
-  <h5>⛏️ Crafting better software, one commit at a time</h5>
+
+<a href="https://portifolio-page-flax.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Conheça_meu_portfólio-000000?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/marcosoliveirarocha">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⛏️ Crafting better software, one commit at a time.
+
 </div>
