@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://portifolio-page-flax.vercel.app/">
+  <img src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/master/banner.png" alt="Marcos Vinicius - Software Engineer" width="100%">
+</a>
+
 # 👋 Olá, eu sou Marcos Vinicius
 
 ### Frontend Engineer | Fullstack Developer
@@ -8,18 +12,18 @@
 
 Construo produtos digitais com foco em **performance, arquitetura escalável, experiência do usuário e qualidade de código**.
 
-Minha atuação combina engenharia de frontend com visão de backend, permitindo trabalhar desde a construção de interfaces e Design Systems até APIs, integração de serviços, bancos de dados e pipelines de CI/CD.
+Minha atuação combina engenharia de frontend com visão de backend, conectando **interface, APIs, dados, infraestrutura e entrega contínua** para transformar requisitos de produto em soluções sustentáveis.
 
 <br>
 
 <a href="https://portifolio-page-flax.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfólio-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_PORTFÓLIO-000000?style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/marcosoliveirarocha">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:marcosvinicius.udia1256@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -30,24 +34,105 @@ Minha atuação combina engenharia de frontend com visão de backend, permitindo
 
 Sou **Software Engineer com foco em Frontend**, atuando principalmente com **React, Next.js, TypeScript e JavaScript**.
 
-Tenho experiência na construção e evolução de aplicações web, trabalhando com **arquitetura frontend, performance, Design Systems, integração com APIs REST, testes automatizados e CI/CD**.
+Tenho experiência na construção e evolução de aplicações web, trabalhando com **arquitetura frontend, Web Performance, Design Systems, APIs REST, testes automatizados e CI/CD**.
 
-Também possuo experiência com backend utilizando **Node.js, Java, Spring Boot e Quarkus**, além de bancos relacionais e NoSQL.
+Também atuo no backend com **Node.js, Java, Spring Boot e Quarkus**, além de bancos relacionais e NoSQL.
 
-Meu objetivo é transformar requisitos de produto em soluções que sejam:
+Meu foco é construir software que equilibre:
 
-* ⚡ Performáticas
-* 🧩 Escaláveis
-* 🧪 Testáveis
-* 🔐 Seguras
-* ♻️ Manuteníveis
-* 🎯 Orientadas ao problema de negócio
+**Produto + Experiência + Performance + Arquitetura + Qualidade**
+
+Gosto de entender o problema de ponta a ponta — desde o componente renderizado no navegador até a API, banco de dados e infraestrutura que sustentam a aplicação.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Core Engineering
 
-### Frontend
+### ⚡ Performance
+
+Transformo performance em uma preocupação de arquitetura, não apenas em uma etapa final.
+
+```text
+Code Splitting
+      ↓
+Lazy Loading
+      ↓
+Bundle Optimization
+      ↓
+SSR / Rendering Strategy
+      ↓
+Core Web Vitals
+```
+
+Em projetos profissionais, já trabalhei em iniciativas de otimização que reduziram o tempo de carregamento em **30%** através de estratégias de carregamento e otimização de bundles.
+
+---
+
+### 🏗️ Arquitetura Frontend
+
+Construo interfaces pensando além do componente individual.
+
+**Componentização · Design Systems · Modularidade · State Management · SSR · Micro-frontends**
+
+Objetivo:
+
+> permitir que a aplicação cresça sem transformar o código em uma estrutura difícil de evoluir.
+
+---
+
+### 🧪 Qualidade
+
+Qualidade não é apenas escrever código que funciona.
+
+Trabalho com:
+
+**Jest · Vitest · Cypress · Playwright · TypeScript · Code Review · Clean Code**
+
+Estratégia:
+
+```text
+Code
+ ↓
+Type Safety
+ ↓
+Unit Tests
+ ↓
+Integration Tests
+ ↓
+E2E
+ ↓
+CI
+```
+
+---
+
+### 🚀 Entrega
+
+Software precisa chegar ao usuário de forma previsível.
+
+**Git · GitHub Actions · Docker · CI/CD · Automated Testing**
+
+Pipeline ideal:
+
+```text
+Push
+ ↓
+Lint
+ ↓
+Type Check
+ ↓
+Tests
+ ↓
+Build
+ ↓
+Deploy
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,vite" />
@@ -55,7 +140,7 @@ Meu objetivo é transformar requisitos de produto em soluções que sejam:
 
 **React.js · Next.js · Vue.js · TypeScript · JavaScript · Tailwind CSS · Vite**
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,quarkus" />
@@ -63,7 +148,7 @@ Meu objetivo é transformar requisitos de produto em soluções que sejam:
 
 **Node.js · Express · Java · Spring Boot · Quarkus · REST APIs**
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
@@ -71,144 +156,248 @@ Meu objetivo é transformar requisitos de produto em soluções que sejam:
 
 **PostgreSQL · MySQL · MongoDB · SQLite**
 
-### Testing & Quality
-
-**Jest · Vitest · Cypress · Playwright · Clean Code · Code Review**
-
-### DevOps & Cloud
+## DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=githubactions,docker,git,github,jenkins,aws,kubernetes" />
 </p>
 
-**Git · GitHub · GitHub Actions · Docker · Jenkins · AWS · Kubernetes · CI/CD**
+**Git · GitHub Actions · Docker · Jenkins · AWS · Kubernetes · CI/CD**
 
-### Architecture & Engineering
+## Architecture & Engineering
 
-**Microservices · Micro-frontends · Design Systems · SSR · Code Splitting · Lazy Loading · Core Web Vitals · API Design · Observability**
+**Microservices · Micro-frontends · Design Systems · SSR · Core Web Vitals · API Design · Observability · Clean Code**
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Featured Projects
 
 ## 🤖 DevRoast
 
-**Análise técnica de código utilizando IA**
+### AI-powered code analysis & developer tooling
 
-Uma plataforma criada para analisar código-fonte e gerar feedback técnico automatizado, combinando engenharia de software com AI-assisted development.
+Ferramenta criada para analisar código-fonte e gerar feedback técnico automatizado utilizando **AI Agents**.
 
-### Problema
+### 🎯 Problema
 
-Como automatizar parte do processo de revisão técnica sem transformar o feedback em uma simples análise estática?
+Como automatizar parte de uma revisão técnica mantendo o feedback útil para quem desenvolve?
 
-### Solução
+### 🧠 Decisão arquitetural
 
-Arquitetura baseada em **agentes de IA**, comunicação type-safe utilizando **tRPC** e persistência através de **Drizzle ORM**.
+A aplicação separa as responsabilidades entre:
 
-### Engenharia aplicada
+```text
+┌──────────────┐
+│    React     │
+│   Frontend   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     tRPC     │
+│ Type-safe API│
+└──────┬───────┘
+       │
+       ├───────────────┐
+       ▼               ▼
+┌──────────────┐ ┌──────────────┐
+│  AI Agents   │ │ Drizzle ORM  │
+│ Code Analysis│ │ Data Layer   │
+└──────────────┘ └──────┬───────┘
+                        │
+                        ▼
+                    Database
+```
 
-* 🤖 AI Agents
-* 🔒 Comunicação type-safe
-* 🧩 Arquitetura modular
-* 🗄️ Drizzle ORM
-* ⚛️ React
-* 📘 TypeScript
+### 🔍 Engineering Decisions
 
-**Stack:** `React` `TypeScript` `tRPC` `Drizzle` `AI Agents`
+**tRPC**
 
----
+Comunicação type-safe entre frontend e backend, reduzindo duplicação de contratos.
 
-## 🏭 Smart Inventory
+**Drizzle ORM**
 
-**Sistema de gestão de estoque industrial**
+Camada de persistência tipada mantendo controle sobre as operações de banco.
 
-Aplicação voltada ao controle de inventário e fluxo de materiais, projetada para trabalhar com grandes volumes de dados.
+**AI Agents**
 
-### Problema
+Isolamento da lógica de análise em uma camada própria para permitir evolução independente da interface.
 
-Processar operações de estoque mantendo **baixa latência e boa experiência de uso**, mesmo com grande quantidade de informações.
+### 💻 Stack
 
-### Solução
-
-API desenvolvida utilizando **Java + Quarkus**, priorizando performance, baixo overhead e arquitetura preparada para operações de alta demanda.
-
-### Engenharia aplicada
-
-* ⚡ APIs de alta performance
-* 🔄 Processamento de dados
-* 🏗️ Arquitetura backend
-* 📡 REST APIs
-* ☕ Java
-* 🚀 Quarkus
-
-**Stack:** `Java` `Quarkus` `REST API`
-
----
-
-## 🎓 Freelah
-
-**Plataforma de aprendizado e desenvolvimento profissional**
-
-Aplicação focada na criação e consumo de trilhas de aprendizagem personalizadas.
-
-### Problema
-
-Criar uma experiência de navegação modular e escalável que permitisse acompanhar diferentes etapas de aprendizado.
-
-### Solução
-
-Desenvolvimento do ecossistema utilizando **React no frontend** e **Node.js + Express no backend**, com foco em reutilização, responsividade e organização arquitetural.
-
-### Engenharia aplicada
-
-* ⚛️ React
-* 🟢 Node.js
-* 🔌 REST APIs
-* 🧩 Componentização
-* 📱 Responsive Design
-* 🧹 Clean Code
-
-**Stack:** `React` `Node.js` `Express` `Tailwind CSS`
+`React` `TypeScript` `tRPC` `Drizzle ORM` `AI Agents`
 
 ---
 
-# ⚡ Engenharia na prática
+# 🏭 Smart Inventory
 
-Alguns dos problemas que gosto de resolver:
+### Industrial inventory management
 
-### Performance
+Sistema para controle de estoque e fluxo de materiais desenvolvido para trabalhar com grandes volumes de dados.
 
-Aplicações rápidas não dependem apenas de hardware ou infraestrutura.
+### 🎯 Problema
 
-Trabalho com estratégias como:
+Como processar operações de inventário mantendo baixa latência e uma experiência de utilização consistente?
 
-`Code Splitting` → `Lazy Loading` → `Bundle Optimization` → `SSR` → `Core Web Vitals`
+### 🧠 Decisão arquitetural
 
-### Arquitetura Frontend
+A API utiliza **Java + Quarkus**, priorizando baixo overhead e performance para operações de backend.
 
-Busco construir aplicações onde a complexidade possa crescer sem transformar o código em um monólito difícil de manter.
+```text
+Client
+  │
+  ▼
+REST API
+  │
+  ▼
+Quarkus
+  │
+  ▼
+Business Rules
+  │
+  ▼
+Data Layer
+```
 
-**Componentização · Design Systems · Modularidade · Micro-frontends · State Management**
+### 🔍 Engineering Decisions
 
-### Backend
+**Quarkus**
 
-A visão de frontend não termina na interface.
+Escolhido para construir uma API Java enxuta e orientada a performance.
 
-Também trabalho com:
+**REST**
 
-**Node.js · Java · Spring Boot · Quarkus · REST APIs · PostgreSQL · MongoDB**
+Contrato simples e desacoplado para comunicação entre clientes e backend.
 
-### Entrega
+**Backend-first thinking**
 
-Código de qualidade precisa chegar ao usuário com segurança.
+Regras de negócio e processamento foram mantidos no servidor, evitando sobrecarga desnecessária no frontend.
 
-Por isso, considero parte da engenharia:
+### 💻 Stack
 
-**Git · CI/CD · GitHub Actions · Docker · Automated Tests · Code Review**
+`Java` `Quarkus` `REST APIs`
 
 ---
 
-# 📊 GitHub
+# 🎓 Freelah
+
+### Learning platform
+
+Plataforma de aprendizado focada na criação e consumo de trilhas personalizadas.
+
+### 🎯 Problema
+
+Criar uma experiência modular capaz de acompanhar o usuário durante diferentes etapas do processo de aprendizagem.
+
+### 🧠 Decisão arquitetural
+
+```text
+┌──────────────┐
+│    React     │
+│  Components  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   REST API   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Node.js   │
+│   Express    │
+└──────────────┘
+```
+
+### 🔍 Engineering Decisions
+
+**Componentização**
+
+Construção de componentes reutilizáveis para reduzir duplicação.
+
+**REST API**
+
+Separação entre camada de apresentação e regras de negócio.
+
+**Responsive Design**
+
+Interface adaptada a diferentes resoluções e contextos de utilização.
+
+### 💻 Stack
+
+`React` `Node.js` `Express` `Tailwind CSS`
+
+---
+
+# 🔬 Engineering Approach
+
+Acredito que uma boa decisão de frontend precisa considerar o sistema inteiro.
+
+Uma mudança aparentemente simples pode afetar:
+
+```text
+UX
+ ↓
+Rendering
+ ↓
+Performance
+ ↓
+API
+ ↓
+Database
+ ↓
+Infrastructure
+ ↓
+Cost
+```
+
+Por isso, gosto de analisar problemas considerando **trade-offs técnicos, impacto no produto e capacidade de evolução**.
+
+Meu objetivo não é utilizar a tecnologia mais nova.
+
+É utilizar a tecnologia adequada para o problema.
+
+---
+
+# 🤖 AI & Developer Productivity
+
+Tenho interesse em **AI-assisted development** e ferramentas que aumentem a eficiência do ciclo de desenvolvimento.
+
+Exploro aplicações de IA em:
+
+* Code Analysis
+* Refactoring
+* Test Generation
+* Developer Tooling
+* Automation
+* Documentation
+* Software Quality
+
+O objetivo é utilizar IA como **multiplicador de engenharia**, não como substituto de fundamentos técnicos.
+
+---
+
+# 📚 Atualmente explorando
+
+**AI-assisted development**
+
+**Web Performance**
+
+**Design Systems**
+
+**Frontend Architecture**
+
+**Testing Strategies**
+
+**Cloud & CI/CD**
+
+**Application Security**
+
+**Software Architecture**
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -223,35 +412,30 @@ Por isso, considero parte da engenharia:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
+  <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/marcosvinirocha/marcosvinirocha/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-# 🎯 Como penso engenharia
+# 🎯 O que você encontrará aqui
 
-> **Frontend não é apenas interface. Backend não é apenas API.**
+Este perfil reúne projetos e experimentos relacionados a:
 
-Gosto de entender o sistema de ponta a ponta.
+**Frontend Engineering**
 
-Uma decisão tomada em um componente pode afetar:
+**Fullstack Development**
 
-**UX → Performance → API → Banco → Infraestrutura → Custo**
+**Web Performance**
 
-Por isso, busco equilibrar **experiência do usuário, qualidade técnica, performance e necessidades do produto**.
+**Software Architecture**
 
----
+**AI-assisted Development**
 
-# 📚 Atualmente explorando
+**Testing**
 
-* 🤖 AI-assisted development
-* 🏗️ Arquiteturas frontend escaláveis
-* ⚡ Web Performance
-* 🧩 Design Systems
-* 🧪 Estratégias de testes
-* ☁️ Cloud & CI/CD
-* 🔐 Segurança de aplicações
-* 📐 Arquitetura de software
+**CI/CD**
+
+**Developer Experience**
 
 ---
 
@@ -259,18 +443,28 @@ Por isso, busco equilibrar **experiência do usuário, qualidade técnica, perfo
 
 Estou aberto a oportunidades e projetos envolvendo:
 
-**Frontend Engineering · React · Next.js · TypeScript · Fullstack · Node.js · Java**
+### Frontend Engineering
+
+`React` `Next.js` `TypeScript`
+
+### Fullstack Development
+
+`Node.js` `Java` `REST APIs`
+
+### Engineering
+
+`Performance` `Architecture` `Testing` `CI/CD`
 
 <br>
 
 <div align="center">
 
 <a href="https://portifolio-page-flax.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Conheça_meu_portfólio-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_CONHEÇA_MEU_PORTFÓLIO-000000?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/marcosoliveirarocha">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼_CONECTE--SE_NO_LINKEDIN-0A66C2?style=for-the-badge" />
 </a>
 
 </div>
